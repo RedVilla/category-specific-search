@@ -13,6 +13,8 @@ Allow users to search with specific categories for WooCommerce. The searchbox pl
 
 == Description ==
 
+[Live Demo]: (http://redvilla.tech/)
+
 Category Specific Search For WooCommerce – A search plugin for WooCommerce. You just got to install and simply begin typewriting and you'll instantly see the product list that you simply search.
 
 It create a simple search box that shows you live search results, by suggesting you product from your WooCommerce shop that match your search out criteria.
