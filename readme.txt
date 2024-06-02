@@ -1,11 +1,11 @@
-﻿=== Category Specific Search For WooCommerce ===
+﻿=== Category Specific Search For WooCom ===
 Contributors: RedVilla
 Tags:  woocommerce search, category specific search, woocommerce search by category, live, ajax, search, woocommerce, woocommerce search results, woocommerce search shortcode, e-commerce, shop, RedVilla, category search, product search, suggest, search, ecommerce
 Requires at least: 5.0
 Tested up to: 6.5.3
 Stable tag: 1.0.0
 Requires PHP: 7.2.0
-Donate link: https://redvilla.net/downloads/category-specific-search-for-woocom/
+Donate link: https://redvilla.tech/download/apps/plugins/category-specific-search-for-woocom/
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -40,7 +40,7 @@ the plugins tested or theme compatibility with Hello Elementor, OceanWP, Hestia,
 
 == Installation ==
 
-1. Download the plugin from [RedVilla] (https://redvilla.net/downloads/category-specific-search-for-woocom/) or [Github] (https://github.com/redvilla/category-specific-search).
+1. Download the plugin from [RedVilla] (https://redvilla.tech/download/apps/plugins/category-specific-search-for-woocom/) or [Github] (https://github.com/redvilla/category-specific-search).
 2. Go to your WordPress Dashboard and click Plugins > Add New Plugins
 3. Upload Plugin > Choose File & Add the downloaded file
 4. Activate plugin
