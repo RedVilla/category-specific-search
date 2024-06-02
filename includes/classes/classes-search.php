@@ -373,7 +373,7 @@ class CSSFW_Search_Template
 			'hierarchical' => '1',
 			'title_li' => '',
 			'hide_empty' => '0',
-			'parent' => 0  // Only get parent categories
+			'parent' => '0',  // Only get parent categories
 		);
 
 
